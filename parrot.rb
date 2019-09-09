@@ -3,6 +3,6 @@
 
 def parrot
   sound = "Squawk!"
-  puts "Squawk!"
+  puts sound
   sound
 end
